@@ -1,0 +1,33 @@
+/* -------- Configurazioni generali --------*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 750px;
+    margin: 0 auto;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+.container-flex {
+    display: flex;
+}
+
+/*-------- Configurazioni specifiche --------*/
+
+
+
+/*-------- UTILITY --------*/
+
+
+
+/*-------- DEBUG --------*/
+.Debug {
+    border: 1px solid black;
+}
