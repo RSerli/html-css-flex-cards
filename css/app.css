@@ -15,11 +15,27 @@ ol {
     list-style-type: none;
 }
 
-.container-flex {
-    display: flex;
+html {
+    font-family: "DM Serif Text", sans-serif;
 }
 
 /*-------- Configurazioni specifiche --------*/
+
+/* Configurazione Header */
+.Header-Tab {
+    padding: 20px;
+}
+
+.container-Header {
+    display: flex;
+    justify-content: center;
+}
+
+.Title {
+    font-size: 50px;
+    font-weight: 600;
+    color: blueviolet;
+}
 
 
 
